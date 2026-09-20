@@ -26,7 +26,7 @@ export function App() {
           <h1>Ship a small app through a real release path.</h1>
           <p className="intro">
             This project is intentionally tiny. The goal is to understand each
-            deployment step instead of hiding it behind a platform button.
+            deployment step, then publish a second version through the same path.
           </p>
         </div>
 
